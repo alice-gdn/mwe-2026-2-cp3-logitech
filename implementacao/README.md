@@ -20,11 +20,12 @@ código que o faz passar.
 
 <!-- Preencham ao final. -->
 
-- Linguagem e framework de teste:
-- Comando para executar os testes:
-- Casos do plano implementados (IDs):
+- Linguagem e framework de teste: Java 17 + Maven + JUnit 5
+- Comando para executar os testes: `cd implementacao; & 'C:\Opensource\netbeans\java\maven\bin\mvn.cmd' test`
+- Casos do plano implementados (IDs): CT01, CT02, CT03, CT04, CT05
 - Saída da última execução dos testes:
 
 ```
-cole aqui a saída
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0
+BUILD SUCCESS
 ```
